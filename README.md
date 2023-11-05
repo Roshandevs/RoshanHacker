@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RoshanHacker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Roshanxd
+- 👀 I’m Full Stack Developer
+- 🌱 I’m currently learning Node.js, PHP, MongoDB,
+- 💞️ I’m looking to collaborate on Website Develoment
+- 📫 How to reach me roshan@roshanxd.com
 
 <!---
 RoshanHacker/RoshanHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
